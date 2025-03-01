@@ -67,7 +67,7 @@ const App = () => {
   return (
     <div className="App">
       <div className="header">
-        <h1>Anime Character Test</h1>
+        <h1>Anime Character Flash Cards</h1>
         <p>How well can you identify these characters? Check it out!</p>
         <p>Number of cards: {characters.length}</p>
         <div className = "difficultyColor">
