@@ -12,7 +12,7 @@ body, html {
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  max-width: 400px;
+  max-width: 700px;
   margin: 20px auto;
   text-align: center;
 }
@@ -37,4 +37,11 @@ body, html {
   padding: 10px 20px;
   border-radius: 5px; 
   cursor: pointer;
+}
+
+.header h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 4em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  margin-bottom: 20px;
 }
